@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Repository</string>
+
+    <string name="menu_item_add">Add</string>
+    <string name="menu_item_remove">Remove</string>
+    <string name="button1">Menu Items</string>
+    <string name="button2">Scrolling Menu</string>
+</resources>
