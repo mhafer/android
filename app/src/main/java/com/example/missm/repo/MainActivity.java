@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent = new Intent(this, MenuItem.class);
                 break;
             case R.id.button2:
-                //intent = new Intent(this,AppBarLayout.class);
+                intent = new Intent(this,ScrollingActivity.class);
                 break;
             default:
                 break;
